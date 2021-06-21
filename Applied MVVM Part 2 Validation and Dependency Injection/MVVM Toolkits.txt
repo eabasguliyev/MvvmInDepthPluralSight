@@ -1,0 +1,14 @@
+Prism
+MVVM Light ( www.pluralsight.com/courses/mvvm-light-toolkit-fundamentals )
+Caliburn Micro
+
+
+Prism: 
+	MVVM (bindablebase, viewmodellocator)
+	Modularity
+	UI Composition, Regions
+	Navigation
+	Commands
+	Pub/Sub Events
+
+www.pluralsight.com/author/brian-lagunas
